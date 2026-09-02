@@ -14,13 +14,13 @@
 </script>
 <style></style></head><body>
 <header class="site-header"><div class="nav-row">
-  <a href="index.php" class="brand"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2l1.8 5.6L19 9l-5.2 1.4L12 16l-1.8-5.6L5 9l5.2-1.4L12 2Z"/></svg> Stellar Hour Cove</a>
+  <a href="index.php" class="brand">Stellar Hour Cove</a>
   <nav><ul class="nav-links"><li><a href="index.php" class="active">Home</a></li>
 <li><a href="shop.html">Shop</a></li>
 <li><a href="about.html">Our Story</a></li>
 <li><a href="blog.html">Journal</a></li>
 <li><a href="contact.html">Visit & Contact</a></li></ul></nav>
-  <button class="menu-toggle" aria-label="menu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+  <button class="menu-toggle" aria-label="menu">MENU</button>
 </div></header>
 <section class="hero"><div class="container">
 <span class="kicker">Precision &middot; Craft &middot; The Night Sky</span>
@@ -55,18 +55,18 @@
 <section><div class="container">
 <div class="section-head"><span class="kicker">Why Collectors Choose Us</span><h2>A few things we don't compromise on</h2></div>
 <div class="value-grid">
-  <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3l7 3v6c0 4.5-3 8-7 9-4-1-7-4.5-7-9V6l7-3Z"/></svg><h3>Precision Movements</h3><p>Every movement is tested and regulated before final assembly.</p></div>
-  <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg><h3>Finished by Hand</h3><p>Dials, cases, and straps are inspected and finished individually.</p></div>
-  <div><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 16c2-6 6-10 8-10s6 4 8 10c-4 3-12 3-16 0Z"/></svg><h3>Made in Small Batches</h3><p>We'd rather finish fewer watches properly than rush a large run.</p></div>
+  <div><div style="font-family:var(--font-display);font-size:2rem;color:var(--gold);margin-bottom:10px;">01</div><h3>Precision Movements</h3><p>Every movement is tested and regulated before final assembly.</p></div>
+  <div><div style="font-family:var(--font-display);font-size:2rem;color:var(--gold);margin-bottom:10px;">02</div><h3>Finished by Hand</h3><p>Dials, cases, and straps are inspected and finished individually.</p></div>
+  <div><div style="font-family:var(--font-display);font-size:2rem;color:var(--gold);margin-bottom:10px;">03</div><h3>Made in Small Batches</h3><p>We'd rather finish fewer watches properly than rush a large run.</p></div>
 </div>
 </div></section>
 
 <section style="background:var(--panel);"><div class="container">
 <div class="section-head"><span class="kicker">The Journal</span><h2>Notes on time, craft, and the sky</h2></div>
 <div class="blog-grid">
-  <div><div class="blog-thumb"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 3"/></svg></div><div class="blog-body"><span class="blog-cat">CRAFT</span><h3>How a Mechanical Movement Actually Works</h3><p>A plain-language look inside the watch on your wrist.</p><a href="blog-mechanical-movements.html" class="blog-read">Read the guide &rarr;</a></div></div>
-  <div><div class="blog-thumb"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 2l1.8 5.6L19 9l-5.2 1.4L12 16l-1.8-5.6L5 9l5.2-1.4L12 2Z"/></svg></div><div class="blog-body"><span class="blog-cat">BUYING</span><h3>How to Choose Your First Quality Watch</h3><p>What actually matters when comparing timepieces.</p><a href="blog-choosing-first-watch.html" class="blog-read">Read the guide &rarr;</a></div></div>
-  <div><div class="blog-thumb"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="4" y="4" width="16" height="16" rx="2"/></svg></div><div class="blog-body"><span class="blog-cat">CARE</span><h3>Caring for a Mechanical Watch</h3><p>Winding, storage, and service habits that protect your watch.</p><a href="blog-watch-care.html" class="blog-read">Read the guide &rarr;</a></div></div>
+  <div><div class="blog-thumb" style="overflow:hidden;padding:0;"><img src="https://images.unsplash.com/photo-1633451238208-11c8e6c1fed4?auto=format&fit=crop&w=500&q=70" alt="Close-up of a watch dial showing internal gears" style="width:100%;height:100%;object-fit:cover;" loading="lazy"></div><div class="blog-body"><span class="blog-cat">CRAFT</span><h3>How a Mechanical Movement Actually Works</h3><p>A plain-language look inside the watch on your wrist.</p><a href="blog-mechanical-movements.html" class="blog-read">Read the guide &rarr;</a></div></div>
+  <div><div class="blog-thumb" style="overflow:hidden;padding:0;"><img src="https://images.unsplash.com/photo-1644893216815-adb3b57047cc?auto=format&fit=crop&w=500&q=70" alt="Man wearing an elegant wristwatch" style="width:100%;height:100%;object-fit:cover;" loading="lazy"></div><div class="blog-body"><span class="blog-cat">BUYING</span><h3>How to Choose Your First Quality Watch</h3><p>What actually matters when comparing timepieces.</p><a href="blog-choosing-first-watch.html" class="blog-read">Read the guide &rarr;</a></div></div>
+  <div><div class="blog-thumb" style="overflow:hidden;padding:0;"><img src="https://images.unsplash.com/photo-1633451238042-85d93d267866?auto=format&fit=crop&w=500&q=70" alt="Close-up of a watch movement" style="width:100%;height:100%;object-fit:cover;" loading="lazy"></div><div class="blog-body"><span class="blog-cat">CARE</span><h3>Caring for a Mechanical Watch</h3><p>Winding, storage, and service habits that protect your watch.</p><a href="blog-watch-care.html" class="blog-read">Read the guide &rarr;</a></div></div>
 </div>
 </div></section>
 
